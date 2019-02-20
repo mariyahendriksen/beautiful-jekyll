@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Master's thesis defended!
 image: /img/hello_world.jpeg
 ---
 
