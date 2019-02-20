@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hello there!
 ---
 
-My name is Mariya Hendriksen. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+<p>I am a first-year PhD student at <a href="http://ilps.science.uva.nl">Information and Language Processing Systems group</a> at the University of Amsterdam. There, I am a part of Artificial Intelligence for Retail (AIR lab) unit. I work on multimodal search and is supervised by Ilya Markov and Maarten de Rijke.</p>
 
 ### my history
 
