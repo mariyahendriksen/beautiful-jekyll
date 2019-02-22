@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Hello there!
+subtitle: Hello and welcome!
 ---
 
 <p>I am a first-year PhD student at <a href="http://ilps.science.uva.nl">Information and Language Processing Systems group</a> at the University of Amsterdam. There, I am a part of Artificial Intelligence for Retail (AIR lab) unit. I work on multimodal search and is supervised by Ilya Markov and Maarten de Rijke.</p>
