@@ -11,4 +11,4 @@ I did my master's degree in Artificial Intelligence at Katholieke Universiteit L
 ### Personal
 I was fortunate to live in different places: Gubkinsky, YANAO; Komsomolsk, Ukraine; Kiten, Bulgaria; Novosibirsk, Russia; Nantes, France; Moscow, Russia; Rotterdam, the Netherlands; Leuven, Belgium; Zurich, Switzerland; Utrecht, the Netherlands.
 
-I enjoy travelling, yoga and phototgraphy.
+I enjoy travelling, yoga and photorgraphy.
