@@ -6,4 +6,4 @@ tags: milestone
 published: true
 ---
 
-I am starting my PhD at the Information and Language Processing System. I am going to work on multimodal cross-device search in collaboration with bol.com.
+I am starting my PhD at the Information and Language Processing System (ILPS) at University of Amsterdam. I am going to work on multimodal machine learning and user behaviour understanding in e-commerce. This project is in collaboration with Ahold Delhaize (in particular, I focus on bol.com). I am supervised by Prof. Dr. Maarten de Rijke.
