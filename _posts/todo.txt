@@ -1,0 +1,4 @@
+TO DO:
+- wids CPH highlights
+- dialogue breakdown detection challenge
+- cross-device search
