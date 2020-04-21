@@ -12,6 +12,6 @@ Earlier, I earned a bachelor's degree in <a href="https://education.nsu.ru/lingu
 More details are in my <a href="/pdf/cv.pdf"> CV</a>.
 
 ### Personal
-Throughout my life, I lived in the following places (in chronological order): Komsomolsk, Ukraine; Gubkinsky, YANAO, Russia; Kiten, Bulgaria; Novosibirsk, Russia; Nantes, France; Moscow, Russia; Rotterdam, the Netherlands; Leuven, Belgium; Zurich, Switzerland; Utrecht, the Netherlands.
+Throughout my life, I lived in the following places (in chronological order): Komsomolsk, Ukraine; Gubkinsky, YANAO, Russia; Kiten, Bulgaria; Novosibirsk, Russia; Nantes, France; Moscow, Russia; Rotterdam, the Netherlands; Leuven, Belgium; Zurich, Switzerland; Utrecht, the Netherlands; Hilversum, the Netherlands.
 
-As you can see, I really like travelling. Besides, my other interests include yoga and photorgraphy.
+As you can see, I really like travelling. Apart from that, my other interests include yoga and photorgraphy.
