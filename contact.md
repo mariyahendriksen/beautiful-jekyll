@@ -3,6 +3,5 @@ layout: page
 title: Contact
 ---
 
-
-m.hendriksen[at]uva.nl
+If you want ot reach out to me, feel free to send an email on m.hendriksen[at]uva.nl.
 
