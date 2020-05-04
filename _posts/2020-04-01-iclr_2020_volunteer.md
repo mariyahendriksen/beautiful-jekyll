@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: ICLR 2020
 tags: education
 comments: false
