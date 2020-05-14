@@ -24,6 +24,7 @@ description: PhD student
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  News: "news"
   Teaching: "teaching"
   Contact: "contact"
   # Resources:
